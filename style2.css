@@ -1,0 +1,379 @@
+.busi{
+    color: black;
+    border: 1px solid white;
+    width: 100%;
+    height: 10%;
+}
+.learnmore{
+    color: white;
+    border: 1px solid black;
+    background: black;
+    width: 100px;
+    height: 40px;
+    margin-top: -80px;
+    margin-left: 100px;
+    border-radius: 30px;
+}
+.learn{
+    margin-top: 13px;
+    margin-left: 5px; 
+}
+.menu{
+    margin-left: 98%;
+    margin-top: -10px;
+}
+.h1{
+    margin-left: 30px;
+    font-family: monospace;
+}
+h4{
+    margin-top: 8%;
+    margin-left: 7px;
+}
+.h5{
+    margin-left: 30px;
+}
+.img1{
+    margin-left: 65%;
+    margin-top: -18%;
+}
+h2{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.quali{
+    color: white;
+    border: 1px solid black;
+    background: black;
+    width: 33.3%;
+    height: 350px;
+    margin-top: 5%;
+}
+.paragrap{
+    margin-top: 20%;
+    margin-left: 20%;
+}
+.growth{
+    color: white;
+    border: 1px solid rgb(4, 201, 250);
+    background: rgb(4, 201, 250);
+    margin-left: 33.3%;
+    width: 33.3%;
+    height: 350px;
+    margin-top: -23.4%;
+}
+.comp{
+    color: white;
+    border: 1px solid rgb(7, 243, 196);
+    background: rgb(7, 243, 196);
+    margin-left: 66.3%;
+    margin-top: -23.4%;
+    width: 33.3%;
+    height: 350px;
+}
+.aboutcm{
+    color: black;
+    border: 1px solid whitesmoke;
+    width: 100%;
+    height: 500px;
+    background: white;
+}
+.ac{
+    margin-left: 43%;
+    margin-top: 10%;
+}
+.paragrap1{
+    margin-left: 38%;
+    margin-top: 2%;
+}
+.anchor{
+    font-size: 60px;
+    margin-left: 48%;
+}
+.abp{
+    margin-top: -100px;
+}
+.our{
+    color: black;
+    border: 1px solid black;
+    width: 130px;
+    height: 50px;
+    margin-left: 45%;
+    margin-top: 40px;
+}
+.work{
+    margin-left: 20.5px;
+    margin-top: 15px;
+}
+.p1{
+    width: 50%;
+    height: 600px;
+}
+.dtrt{
+    color: white;
+    border: 1px solid rgb(5, 247, 210);
+    background: rgb(5, 247, 210);
+    width: 50%;
+    height: 600px;
+    margin-left: 50%;
+    margin-top: -40.3%;
+}
+.paragrap2{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.learnmore2{
+    color: rgb(5, 247, 210);
+    border: 1px solid white;
+    background: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-top: 11%;
+}
+.more{
+    margin-top: 13px;
+    margin-left: 5px;
+}
+.os{
+    color: black;
+    border: 1px solid black;
+    background: white;
+    width: 100%;
+    height: 900px;
+}
+.service{
+    font-size: 50px;
+    margin-left: 40%;
+}
+.lorem{
+    margin-top: -60px;
+    margin-left: 38%;
+}
+.horse{
+    color: white;
+    border: 1px solid #00FFFF;
+    background: #00FFFF;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+.incir{
+    margin-left: 22px;
+    margin-top: 16px;
+    font-size: 40px;
+}
+.brand{
+    margin-left: 300px;
+}
+.brandp{
+    margin-left: 250px;
+}
+.horn{
+    color: white;
+    border: 1px solid #00FFFF;
+    background: #00FFFF;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 700px;
+    margin-top: -640px;
+}
+.brand1{
+    margin-left: 700px;
+}
+.brandp1{
+    margin-left: 650px;
+}
+.develop{
+    color: white;
+    border: 1px solid #00FFFF;
+    background: #00FFFF;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 1080px;
+    margin-top: -215px;
+}
+.incir1{
+    margin-left: 15px;
+    font-size: 40px;
+    margin-top: 16px;
+}
+.developp{
+    margin-left: 1030px;
+}
+.develop1{
+    margin-left: 1080px;
+}
+.palete{
+    color: white;
+    border: 1px solid #00FFFF;
+    background: #00FFFF;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-top: 130px;
+}
+.web{
+    margin-left: 300px;
+}
+.webp{
+    margin-left: 250px;
+}
+.share{
+    color: white;
+    border: 1px solid #00FFFF;
+    background: #00FFFF;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 700px;
+    margin-top: -212px;
+}
+.share1{
+    margin-left: 695px;
+}
+.sharep{
+    margin-left: 650px;
+}
+.eco{
+    color: white;
+    border: 1px solid #00FFFF;
+    background: #00FFFF;
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 1080px;
+    margin-top: -212px;
+}
+.ecom{
+    margin-left: 1080px;
+}
+.ecop{
+    margin-left: 1050px;
+}
+.commu{
+    color: black;
+    border: 1px solid gray;
+    background: gainsboro;
+    width: 50%;
+    height: 650px;
+    margin-top: 30px;
+}
+.commuh{
+    margin-left: 140px;
+    font-family: monospace;
+    margin-top: 25%;
+}
+.commup{
+    margin-left: 140px;
+}
+.p3{
+    width: 800px;
+    margin-left: 753px;
+    height: 650px;
+    margin-top: -449px;
+    border: 1px solid black;
+    width: 749px;
+    height: 650px;
+}
+.learnmore3{
+    margin-top: -180px;
+    margin-left: 130px;
+    color:white;
+    border: 1px solid white;
+    background: rgb(5, 247, 210);
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;   
+}
+.moree{
+    margin-top: 13px;
+    margin-left: 14px;
+}
+.gtkt{
+    color: white;
+    border: 1px solid #00FFFF;
+    background: #00FFFF;
+    width: 1505px;
+    height: 200px;
+}
+.getto{
+    margin-left: -250px;
+    margin-top: -150px;
+    font-family:monospace;
+    font-size: 25px;
+}
+.gettop{
+    margin-left: 300px;
+}
+.lm{
+    margin-left: 75%;
+}
+.readmore{
+    color: rgb(5, 247, 210);
+    border: 1px solid white;
+    background: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    margin-left: 75%;
+    margin-top: -90px;
+}
+.busiandmark{
+    color: black;
+    border: 1px solid white;
+    background: white;
+    width: 100%;
+    height: 650px;
+}
+.busiandmarkh1{
+    margin-left: 37%;
+    /* font-family: monospace; */
+}
+.busip{
+    margin-top: -650px;
+    margin-left: 300px;
+}
+.vmore{
+    color: white;
+    border: 1px solid black;
+    background: black;
+    width: 130px;
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 350px;
+}
+.vmoreh{
+    margin-left: 20px;
+    margin-top: -4px;
+}
+.kzy{
+    color: white;
+    border: 1px solid black;
+    background: black;
+    width: 1505px;
+    height: 100px;
+    margin-top: 100px;
+} 
+.kzyy{
+    margin-left: 40%;
+    margin-top: 2.5%;
+}
+.learrn{
+    color: black;
+    border: 1px solid black;
+    background: white;
+    width: 130px;
+    height: 50px;
+    margin-left: 650px;
+    margin-top: 40px;
+}
+.morre{
+    margin-top: 15px;
+}

@@ -1,0 +1,509 @@
+.bgw{
+    width: 100%;
+    height: 1650px;
+}
+.backb{
+    color: white;
+    border: 1px solid rgb(2, 133, 248);
+    background: rgb(2, 133, 248);
+    width: 100%;
+    height: 550px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.xbox{
+    font-size: 40px;
+    margin-left: 75px;
+    margin-top: 25px;
+}
+.lugx{
+    margin-left: 130px;
+    margin-top: -63px;
+    font-family: monospace;
+    font-size: 20px;
+}
+.home{
+    margin-left: 900px;
+    margin-top: -50px;
+}
+.homea{
+    border: 1px solid rgb(1, 114, 242);
+    background: rgb(1, 114, 242);
+    width: 50px;
+    height: 25px;
+    border-radius: 25px;
+    margin-left: 891px;
+    margin-top: -43.5px;
+}
+.ourshop{
+    margin-left: 1000px;
+    margin-top: -43px;
+}
+.pd{
+    margin-left: 1120px;
+    margin-top: -36.5px;
+}
+.cs{
+    margin-left: 1270px;
+    margin-top: -37px;
+}
+.signup{
+    margin-left: 1385px;
+    margin-top: -38px;
+}
+.signupb{
+    border: 1px solid orangered;
+    background: orangered;
+    color: white;
+    width: 55px;
+    height: 25px;
+    border-radius: 25px;
+    margin-left: 1380px;
+    margin-top: -43px;
+}
+.Welcome{
+    margin-left: 75px;
+    margin-top: 150px;
+}
+p{
+    margin-left: 75px;
+   
+}
+h2{
+    margin-left: 75px;
+}
+.search{
+    margin-left: 75px;
+    border-radius: 25px;
+    border: 1px solid white;
+    width: 200px;
+    height: 25px;
+    background: white;
+}
+.type{
+    margin-top: -20px;
+    color: gray;
+    margin-left: 20px;
+}
+.searchnow{
+   margin-left: 200px;
+   margin-top: -32px;
+   font-size: 10px;
+   color: gray;
+}
+.searchb{
+    border: 1px solid orangered;
+    background: orangered;
+    width: 100px;
+    height: 25px;
+    border-radius: 25px;
+    margin-left: 180px;
+    margin-top: -27.2px;
+}
+.p1{
+    margin-left: 1200px;
+    margin-top: -900px;
+    height: 290px;
+    border-radius: 25px;
+}
+.circ{
+    border: 1px solid orangered;
+    background: orangered;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 90px;
+    margin-left: 1200px;
+    margin-top: -30px;
+}
+.circle40{
+    margin-left: 1205px;
+    margin-top: -30px;
+}
+.freestorage{
+    border: 1px solid black;
+    color: blue;
+    width: 200px;
+    height: 120px;
+    background: white;
+    border-radius: 20px;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.free{
+    margin-left: 37px;
+    margin-top: 10px;
+    font-family: monospace;
+    font-size: 20px;
+}
+.cloud{
+    margin-left: 65px;
+    font-size: 50px;
+    margin-top: 10px;
+}
+.usermore{
+    border: 1px solid black;
+    color: blue;
+    width: 200px;
+    height: 120px;
+    background: white;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-top: -121px;
+}
+.user{
+    font-size: 50px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.usemore{
+    margin-left: 50px;
+    margin-top: 12px;
+    font-family: monospace;
+    font-size: 20px;
+}
+.replyreadyb{
+    border: 1px solid black;
+    color: blue;
+    width: 200px;
+    height: 120px;
+    background: white;
+    border-radius: 20px;
+    margin-left: 820px;
+    margin-top: -65px;
+}
+.replyready{
+    margin-left: 870px;
+    margin-top: 10px;
+    font-family: monospace;
+    font-size: 20px;
+    color: blue;
+}
+.reply{
+    font-size: 50px;
+    margin-left: 900px;
+    margin-top: -110px;
+    color: blue;
+}
+.easy{
+    border: 1px solid black;
+    width: 200px;
+    height: 120px;
+    background: white;
+    border-radius: 20px;
+    margin-left: 1130px;
+    margin-top: -103px;
+    color: blue;
+}
+.layout{
+    margin-left: 588px;
+    margin-top: -45px;
+    font-family: monospace;
+    font-size: 20px;
+    color: blue;
+}
+.awelayout{
+    font-size: 50px;
+    margin-left: 620px;
+    margin-top: -85px;
+}
+.tren{
+    margin-top: 80px;
+    margin-left: 180px;
+    font-family: monospace;
+    font-size: 20px;
+    color: firebrick;
+}
+.trengame{
+    margin-left: 105px;
+    margin-top: -950px;
+    font-family: monospace;
+ }
+ .vall{
+    border: 1px solid orangered;
+    background: orangered;
+    color: white;
+    width: 55px;
+    height: 25px;
+    border-radius: 25px;
+    margin-left: 1380px;
+    margin-top: -43px;
+ }
+ .viewall{
+    margin-top: -12px;
+    font-family: monospace;
+    margin-left: 9px;
+ }
+ .vall2{
+    border: 1px solid orangered;
+    background: orangered;
+    color: white;
+    width: 55px;
+    height: 25px;
+    border-radius: 25px;
+    margin-left: 1380px;
+    margin-top: -80px;
+ }
+ .viewall2{
+    margin-top: -16px;
+    font-family: monospace;
+    margin-left: 5px;
+    font-size: 15px;
+ }
+ .lolborder1{
+    border: 1px solid wheat;
+    background: rgba(125, 125, 125, 0.893);
+    width: 230px;
+    height: 2.2in;
+    margin-left: 180px;
+    margin-top: -140px;
+    border-radius: 25px;
+}
+.lolborder2{
+    border: 1px solid wheat;
+    background: rgba(125, 125, 125, 0.893);
+    width: 230px;
+    height: 2.2in;
+    margin-left: 120px;
+    margin-top: -135px;
+    border-radius: 25px;
+}
+ .lolh{
+    font-family: monospace;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 15px;
+ }
+ .action{
+    margin-top: 150px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: wheat;
+ }
+ .p2{
+    margin-top: 100px;
+    margin-left: 180px;
+    width: 230px;
+    border-radius: 25px;
+}
+.lol3{
+    margin-top: -100px;
+    margin-left: 60px;
+    width: 230px;
+    border-radius: 25px;
+}
+.shopcartb1{
+    border: 1px solid orangered;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background: orangered;
+    margin-left: 360px;
+    margin-top: -40px;
+}
+.shopcartb2{
+    border: 1px solid orangered;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background: orangered;
+    margin-left: 300px;
+    margin-top: -40px;
+}
+.shopcart{
+    margin-left: 5px;
+    margin-top: 9px;
+}
+.lol4{
+    margin-top: -100px;
+    margin-left: 60px;
+    width: 230px;
+    border-radius: 25px;
+}
+.lolborder3{
+    border: 1px solid wheat;
+    background: rgba(125, 125, 125, 0.893);
+    width: 230px;
+    height: 2.2in;
+    margin-left: 120px;
+    margin-top: -135px;
+    border-radius: 25px;
+}
+.shopcartb3{
+    border: 1px solid orangered;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background: orangered;
+    margin-left: 300px;
+    margin-top: -40px;
+}
+.lol5{
+    margin-top: -100px;
+    margin-left: 60px;
+    width: 230px;
+    border-radius: 25px;
+}
+.lolborder4{
+    border: 1px solid wheat;
+    background: rgba(125, 125, 125, 0.893);
+    width: 230px;
+    height: 2.2in;
+    margin-left: 120px;
+    margin-top: -120px;
+    border-radius: 25px;
+}
+.shopcartb4{
+    border: 1px solid orangered;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background: orangered;
+    margin-left: 300px;
+    margin-top: -40px;
+}
+.topgame{
+    border: 1px solid rgba(125, 125, 125, 0.893);
+    background: rgba(125, 125, 125, 0.893);
+    width: 1500px;
+    height: 500px;
+    margin-left: -1255px;
+    margin-top: 80px;
+    border-radius: 25px;
+    color: firebrick;
+    font-family: monospace;
+    font-size: 20px;
+}
+.topgame1{
+   margin-left: 180px;
+   margin-top: 50px;
+}
+.mostplay{
+    color: black;
+    margin-left: 105px;
+    margin-top: 10px;
+}
+.lol6{
+    border-radius: 25px;
+    margin-left: -549.8px;
+    width: 130px;
+    height: 120px;
+    margin-top: -200px;
+}
+.lolborder5{
+    border: 1px solid white;
+    width: 130px;
+    height: 200px;
+    background: white;
+    margin-left: -1101px;
+    margin-top: -225px;
+    border-radius: 25px;
+}
+.advanture{
+    margin-top: 130px;
+    margin-left: 30px;
+    color: gray;
+}
+.leagueoflegend{
+    color: black;
+    margin-top: 8px;
+    font-size: 12px;
+    margin-left: 15px;
+}
+.explore{
+    border: 1px solid orangered;
+    background: orangered;
+    width: 75px;
+    height: 25px;
+    border-radius: 20px;
+    margin-left: 24px;
+}
+.exp{
+    margin-top: 6px;
+    margin-left: 10px;
+    font-family: monospace;
+}
+.lol7{
+    border-radius: 25px;
+    margin-left: -450px;
+    width: 130px;
+    height: 120px;
+    margin-top: -102px;
+}
+.lolborder6{
+    border: 1px solid white;
+    width: 130px;
+    height: 200px;
+    background: white;
+    margin-left: -900px;
+    margin-top: -222.5px;
+    border-radius: 25px;
+}
+.lol8{
+    border-radius: 25px;
+    margin-left: -350.1px;
+    width: 130px;
+    height: 120px;
+    margin-top: -102px;
+}
+.lolborder7{
+    border: 1px solid white;
+    width: 130px;
+    height: 200px;
+    background: white;
+    margin-left: -700px;
+    margin-top: -222.5px;
+    border-radius: 25px;
+}
+.lol9{
+    border-radius: 25px;
+    margin-left: -250.1px;
+    width: 130px;
+    height: 120px;
+    margin-top: -100px;
+}
+.lolborder8{
+    border: 1px solid white;
+    width: 130px;
+    height: 200px;
+    background: white;
+    margin-left: -500px;
+    margin-top: -222.5px;
+    border-radius: 25px;
+}
+.lol10{
+    border-radius: 25px;
+    margin-left: -149.1px;
+    width: 130px;
+    height: 120px;
+    margin-top: -100px;
+}
+.lolborder9{
+    border: 1px solid white;
+    width: 130px;
+    height: 200px;
+    background: white;
+    margin-left: -299px;
+    margin-top: -222.5px;
+    border-radius: 25px;
+}
+.lol11{
+    border-radius: 25px;
+    margin-left: -49.1px;
+    width: 130px;
+    height: 120px;
+    margin-top: -100px;
+}
+.lolborder10{
+    border: 1px solid white;
+    width: 130px;
+    height: 200px;
+    background: white;
+    margin-left: -100px;
+    margin-top: -222.5px;
+    border-radius: 25px;
+}

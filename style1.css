@@ -1,0 +1,104 @@
+.ye{
+    color: white;
+    border: 1px solid hwb(53 2% 7%);
+    width: 50.3%;
+    height: 500px;
+    background: hwb(53 2% 7%);
+}
+.red{
+    color: white;
+    border: 1px solid rgb(231, 74, 7);
+    width: 49.9%;
+    height: 498.5px;
+    margin-left: 50.3%;
+    margin-top: -501.5px;
+     background: rgba(240, 67, 5, 0.823);
+}
+.ye2{
+    color: white;
+    border: 1px solid hwb(53 2% 7%);
+    width: 100.21%;
+    height: 450px;
+    background: hwb(53 2% 7%);
+    margin-top: -5px;
+    /* font-family: monospace; */
+}
+.paragrap{
+    margin-left: 20%;
+    font-size: 20px;
+}
+h1{
+    margin-left: 5%;
+}
+h2{
+    margin-left: 10%;
+}
+h3{
+    margin-left: 35%; margin-top: 20%; 
+    font-size: 22px;
+}
+h5{
+    margin-left: 2.5%;
+    font-size: 15px;
+}
+
+.yr{
+    margin-left: 22%;
+    margin-top: -35px;
+    font-size: 15px;
+    color: brown;
+}
+img{
+    width: 100.3%;
+    height: 655px;
+}
+.paragraph1{
+    margin-left: 10%;
+    font-size: 20px;
+}
+.paragraph2{
+    margin-left: 10%;
+}
+.font{
+   font-family: monospace;
+   margin-top: 80px;
+}
+.font1{
+    font-family: monospace;
+    margin-top: -80px;
+   
+}
+.font2{
+    font-family: monospace;
+}
+.font3{
+    font-family: monospace;
+    margin-top: -90px;
+}
+.font4{
+    margin-top: 90px;
+}
+.paragraph3{
+    margin-top: -4px;
+    margin-left: 10%;
+}
+.tv{
+    margin-left: 40%;
+    margin-top: 70px;
+    font-size: 80px;
+}
+.telegram{
+    margin-left: 40%;
+    margin-top: 70px;
+    font-size: 80px;
+}
+.computer{
+    font-size: 80px;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+.laptop{
+    font-size: 80px;
+    margin-left: 2%;
+    margin-top: 3%;
+}
